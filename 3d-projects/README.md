@@ -78,8 +78,8 @@ Follow the instructions in each folder in each README and if necessary check the
 
 ## :information_source: How To Use
 
-## Each folder of the "2d-projects" repository
-Follow the instructions shown in each README of each folder of the "2d-projects" repository.
+## Each folder of the "3d-projects" repository
+Follow the instructions shown in each README of each folder of the "3d-projects" repository.
 <br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
