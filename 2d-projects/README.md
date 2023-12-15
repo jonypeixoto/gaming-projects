@@ -5,8 +5,8 @@
 </h1>
 
 <h4 align="center">
-   2D Projects is a repository of projects involving web 2.0 and front-end that every programmer in the world should know:
-   <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
+   2D Projects is a repository of projects involving web 2.0 and web 3.0 that every programmer in the world should know:
+   <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a> and <a href="https://aws.amazon.com/pt/what-is/web3/">Web 3.0</a> 
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jonypeixoto/front-end-projects">
@@ -45,8 +45,8 @@ This repository was created to put practical gaming and web 2.0/web 3.0 projects
 
 The purpose of this repository is to organize 1 category into which my practical studies in programming were separated. Such as:
 
-* <b><h3>Front End Web(front-end-projects)</h3></b>
-   * Focused on HTML, CSS, Sass, Less, VueJS, ReactJS, AngularJS, Database, Hosting, Database, SEO Analytics, MVC, Information Security.
+* <b><h3>2D Projects(2d-projects)</h3></b>
+   * Focused on gaming(Java, C#, C, C++, Database, Hosting, Database, SEO Analytics, MVC, Information Security).
 
 <br/>
 
@@ -78,8 +78,8 @@ Follow the instructions in each folder in each README and if necessary check the
 
 ## :information_source: How To Use
 
-## Each folder of the "front-end-projects" repository
-Follow the instructions shown in each README of each folder of the "front-end-projects" repository.
+## Each folder of the "2d-projects" repository
+Follow the instructions shown in each README of each folder of the "2d-projects" repository.
 <br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
@@ -91,7 +91,8 @@ Follow the instructions shown in each README of each folder of the "front-end-pr
 - [Python](https://python.org)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
 - [ReactJS](https://reactjs.org)
-- [Next.js](https://nextjs.org)
+- [Java](https://docs.oracle.com/en/java/)
+- [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 - [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
 - [Gulp](https://gulpjs.com)
 - [Angular](https://angular.io)
