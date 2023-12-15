@@ -45,7 +45,7 @@ This repository was created to put practical gaming and web 2.0/web 3.0 projects
 
 The purpose of this repository is to organize 1 category into which my practical studies in programming were separated. Such as:
 
-* <b><h3>2D Projects(2d-projects)</h3></b>
+* <b><h3>3D Projects(2d-projects)</h3></b>
    * Focused on gaming(Java, C#, C, C++, Database, Hosting, Database, SEO Analytics, MVC, Information Security).
 
 <br/>
