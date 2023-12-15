@@ -128,7 +128,7 @@ Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com.br)
 
 ### LIVES:
 
-TikTok: [Jony Tech @jonypeixoto](https://tiktok.com/@jonypeixoto)
+TikTok: [Jony Peixoto @jonypeixoto](https://tiktok.com/@jonypeixoto)
 
 YouTube: [Jony Peixoto](https://youtube.com/@jonypeixoto.)
 
