@@ -73,8 +73,8 @@ The forums and search engines mentioned below are quite useful:
 
 ## :information_source: How To Use
 
-## Each folder of the "full-stack-web2-projects" repository
-Follow the instructions shown in each README of each folder of the "full-stack-web2-projects" repository.
+## Each folder of the "gaming-projects" repository
+Follow the instructions shown in each README of each folder of the "gaming-projects" repository.
 <br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
