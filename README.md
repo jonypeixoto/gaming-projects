@@ -6,7 +6,7 @@
 
 <h4 align="center">
    Gaming Projects is a repository of projects involving web 2.0 & web 3.0 that every programmer in the world should know:
-   <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
+   <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a> and <a href="https://aws.amazon.com/what-is/web3/">Web 3.0</a>
 </h4>
 
 <p align="center">
