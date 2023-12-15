@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Linux GitHub Repo List" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/fullstack-web2-projects-readme.png" />
     <br>
-    Full Stack Web 2.0 Projects
+    Gaming Projects
 </h1>
 
 <h4 align="center">
