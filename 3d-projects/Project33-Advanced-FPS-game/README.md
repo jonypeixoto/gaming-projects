@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/-Advanced-FPS-game.gif" />
+    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Advanced-FPS-game.gif" />
     <br>
     Advanced FPS Game
 </h1>
