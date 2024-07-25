@@ -1,38 +1,38 @@
 <h1 align="center">
-    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/emailmarketingsystem.gif" />
+    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/mini-zelda.gif" />
     <br>
-    E-mail Marketing System
+    Mini Zelda Game
 </h1>
 
 <h4 align="center">
-E-mail Marketing System is a repository of the project involving web 2.0 and front-end that every programmer in the world should know:
-   <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
+Mini Zelda Game is a repository of the project involving games that every game engineer in the world should know:
+   <a href="https://en.wikipedia.org/wiki/Game">Games</a>
 </h4>
 
 <br/> 
 
-<p>These dynamic seals(shields) concern the Full-Stack Web 2.0 repository, all projects work on any operating system that meets the technologies:</p>
+<p>These dynamic seals(shields) concern the Games repository(gaming-projects), all projects work on any operating system that meets the technologies:</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jonypeixoto/full-stack-web-projects">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jonypeixoto/gaming-projects">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonypeixoto/full-stack-web-projects">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonypeixoto/gaming-projects">
   
-  <a href="https://www.codacy.com/gh/jonypeixoto/full-stack-web2-projects/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jonypeixoto/full-stack-web2-projects&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/gh/jonypeixoto/gaming-projects/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jonypeixoto/gaming-projects&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy Badge" src="https://app.codacy.com/project/badge/Grade/799ca46e878b4a40a8c52ac735f5a1fa">
   </a>
   
-  <img alt="GitHub repository size" src="https://img.shields.io/github/repo-size/jonypeixoto/full-stack-web-projects">
-  <a href="https://github.com/jonypeixoto/full-stack-web2-projects/commits">
+  <img alt="GitHub repository size" src="https://img.shields.io/github/repo-size/jonypeixoto/gaming-projects">
+  <a href="https://github.com/jonypeixoto/gaming-projects/commits">
    
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonypeixoto/full-stack-web-projects">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonypeixoto/gaming-projects">
   </a>
   
-  <a href="https://github.com/jonypeixoto/full-stack-web2-projects/issues">
-    <img alt="Github issues" src="https://img.shields.io/github/issues/jonypeixoto/full-stack-web-projects">
+  <a href="https://github.com/jonypeixoto/gaming-projects/issues">
+    <img alt="Github issues" src="https://img.shields.io/github/issues/jonypeixoto/gaming-projects">
   </a>
   
-  <img alt="GitHub License" src="https://img.shields.io/github/license/jonypeixoto/full-stack-web2-projects"> 
+  <img alt="GitHub License" src="https://img.shields.io/github/license/jonypeixoto/gaming-projects"> 
 </p>
 
 
@@ -204,11 +204,11 @@ This project is under the MIT license. See the [LICENSE](https://github.com/jony
 
 <img alt="Jony Peixoto" title="Jony Peixoto" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Jony-Peixoto-Projects.jpg" height="100" width="100" />
 
-Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
+Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://www.youtube.com/@JonyPeixotoTV)
 
 <br/>
 
-<a href="https://www.jonypeixoto.com" target="_blank">
+<a href="https://www.youtube.com/@JonyPeixotoTV" target="_blank">
   <code><img alt="Jony Peixoto Official Website" height="30" width="130" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
 
@@ -216,4 +216,4 @@ Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 
 ### LIVES:
 
-YouTube: [Jony Peixoto](https://www.youtube.com/@JonyPeixotoOriginal)
+YouTube: [Jony Peixoto](https://www.youtube.com/@JonyPeixotoTV)
