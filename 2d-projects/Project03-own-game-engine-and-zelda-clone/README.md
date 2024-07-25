@@ -1,11 +1,11 @@
 <h1 align="center">
     <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/own-game-engine-and-zelda-clone.gif" />
     <br>
-    Mini Zelda Game
+    Zelda Clone Game
 </h1>
 
 <h4 align="center">
-Mini Zelda Game is a repository of the project involving games that every game engineer in the world should know:
+Zelda Clone Game is a repository of the project involving games that every game engineer in the world should know:
    <a href="https://en.wikipedia.org/wiki/Game">Games</a>
 </h4>
 
