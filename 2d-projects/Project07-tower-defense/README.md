@@ -47,7 +47,7 @@ Tower Defense Game is a repository of the project involving games that every gam
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-emailmarketingsystem.gif)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project07-tower-defense.gif)<br/>
 
 ## :warning: Prerequisites
 
