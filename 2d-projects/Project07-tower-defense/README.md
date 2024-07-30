@@ -46,8 +46,9 @@ Tower Defense Game is a repository of the project involving games that every gam
 </p>
 
 ##  :information_source: Preview
-
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project07-tower-defense.gif)<br/>
+ <code><img alt="Jony Peixoto Official Website" align="center" height="400" width="700" 
+src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project07-tower-defense.gif">
+ </code>
 
 ## :warning: Prerequisites
 
