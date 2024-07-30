@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/mini-zelda.gif" />
+    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project01-mini-zelda.gif" />
     <br>
     Mini Zelda Game
 </h1>
