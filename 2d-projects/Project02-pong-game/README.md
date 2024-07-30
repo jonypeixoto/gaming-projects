@@ -23,6 +23,7 @@ Pong Game is a repository of the project involving games that every game enginee
 </p>
 
 ##  :information_source: Preview
+
   <code><img alt="Jony Peixoto Official Website" align="center" height="400" width="700" 
 src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project02-pong-game.gif">
  </code>
