@@ -49,7 +49,7 @@ You should know about these technologies:
 </br>
 
 1. Download the .RAR zipped file below
-https://drive.google.com/drive/folders/19mhuSg2hqSydMlBY6oiqGy7St0oykn7m?usp=sharing
+https://drive.google.com/file/d/1k3VxJZdOiJIf0ziBWY0a6pzDibtmPp7d/view?usp=sharing
 <br/><br/>
 3. Extract to an accessible location
 <br/><br/>
