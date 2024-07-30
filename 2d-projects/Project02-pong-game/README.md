@@ -37,7 +37,7 @@ You should know about these technologies:
 <br/>
 
 - [Java](https://www.java.com/en/download/manual.jsp)
-- [Eclipse](https://eclipseide.org/)
+- [Eclipse](http://www.eclipse.org/downloads/eclipse-packages/)
 - [Paint.Net](https://www.getpaint.net/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
@@ -49,8 +49,10 @@ You should know about these technologies:
 </br>
 
 1. Download the .RAR zipped file below
-https://drive.google.com/drive/folders/1sYs0R3Bf1oiLXXV4RTDruVfbqxoajdGG?usp=sharing
 <br/>
+https://drive.google.com/file/d/18meO5gGtn_Ja2m5ty9JkRW1qF9ORJXMN/view?usp=sharing
+<br/><br/>
+
 3. Extract to an accessible location
 <br/><br/>
 4. Export in Java format (most recommended) and have fun with this new game !
@@ -83,7 +85,7 @@ https://www.oracle.com/java/technologies/javase-documentation.html
 You need to understand the mechanisms that trigger each tool below:
 
 - [Java](https://www.java.com/en/download/manual.jsp)
-- [Eclipse](https://eclipseide.org/)
+- [Eclipse](http://www.eclipse.org/downloads/eclipse-packages/)
 - [Paint.Net](https://www.getpaint.net/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
