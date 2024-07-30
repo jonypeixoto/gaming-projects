@@ -49,8 +49,9 @@ You should know about these technologies:
 </br>
 
 1. Download the .RAR zipped file below
-https://drive.google.com/drive/folders/1sYs0R3Bf1oiLXXV4RTDruVfbqxoajdGG?usp=sharing
-<br/>
+
+https://drive.google.com/file/d/1ervPXMh1SNn_BkUWHFPMtOvI445XjPsc/view?usp=sharing
+<br/><br/>
 3. Extract to an accessible location
 <br/><br/>
 4. Export in Java format (most recommended) and have fun with this new game !
