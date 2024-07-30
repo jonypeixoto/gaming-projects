@@ -36,7 +36,7 @@ You should know about these technologies:
 <br/>
 
 - [Java](https://www.java.com/en/download/manual.jsp)
-- [Eclipse](https://eclipseide.org/)
+- [Eclipse](http://www.eclipse.org/downloads/eclipse-packages/)
 - [Paint.Net](https://www.getpaint.net/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
@@ -82,7 +82,7 @@ https://www.oracle.com/java/technologies/javase-documentation.html
 You need to understand the mechanisms that trigger each tool below:
 
 - [Java](https://www.java.com/en/download/manual.jsp)
-- [Eclipse](https://eclipseide.org/)
+- [Eclipse](http://www.eclipse.org/downloads/eclipse-packages/)
 - [Paint.Net](https://www.getpaint.net/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
