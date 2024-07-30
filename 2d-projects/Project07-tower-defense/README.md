@@ -49,11 +49,12 @@ You should know about these technologies:
 </br>
 
 1. Download the .RAR zipped file below
-https://drive.google.com/drive/folders/19mhuSg2hqSydMlBY6oiqGy7St0oykn7m?usp=sharing
+
+https://drive.google.com/file/d/1UYWV4fgM_q2oRMai0zy-c8YA0auTubU6/view?usp=sharing
 <br/><br/>
-3. Extract to an accessible location
+2. Extract to an accessible location
 <br/><br/>
-4. Export in Java format (most recommended) and have fun with this new game !
+3. Export in Java format (most recommended) and have fun with this new game !
 <br/><br/>
 How to export to Windows executable format?
 <br/> 
