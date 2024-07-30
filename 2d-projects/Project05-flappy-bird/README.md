@@ -48,7 +48,7 @@ You should know about these technologies:
 </br>
 
 1. Download the .RAR zipped file below
-https://drive.google.com/drive/folders/1sYs0R3Bf1oiLXXV4RTDruVfbqxoajdGG?usp=sharing
+https://drive.google.com/file/d/1CXHYcnLCKkmYzQF3z9j8FC7hYCHIO_qS/view?usp=sharing
 <br/>
 3. Extract to an accessible location
 <br/><br/>
