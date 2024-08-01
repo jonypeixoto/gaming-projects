@@ -52,7 +52,7 @@ You should know about these technologies:
 
 1. Download the .RAR zipped file below
    
-https://drive.google.com/file/d/1mZA1raE9-tlxgqsfjdI6J4W_moPosXoM/view?usp=sharing
+https://drive.google.com/file/d/1hd3FmYE5zy2T8eAOmHOhYrLMuhtAhwnS/view?usp=sharing
 <br/><br/>
 2. Extract to an accessible location
 <br/><br/>
