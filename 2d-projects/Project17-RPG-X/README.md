@@ -26,7 +26,7 @@ RPG-X Game is a repository of the project involving games that every game engine
 ##  :information_source: Preview
 
   <code><img alt="Jony Peixoto Official Website" align="center" height="400" width="700" 
-src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project16-RPG-X.gif">
+src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project17-RPG-X.gif">
  </code>
 
 ## :warning: Prerequisites
