@@ -41,6 +41,7 @@ You should know about these technologies:
 - [Eclipse](https://eclipseide.org/)
 - [Paint.Net](https://www.getpaint.net/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
+- [GameMaker Studio 2](https://gamemaker.io/en)
 
 <br/>
 
@@ -88,6 +89,8 @@ You need to understand the mechanisms that trigger each tool below:
 - [Eclipse](https://eclipseide.org/)
 - [Paint.Net](https://www.getpaint.net/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
+- [GameMaker Studio 2](https://gamemaker.io/en)
+
 
 <br/><br/>
 
