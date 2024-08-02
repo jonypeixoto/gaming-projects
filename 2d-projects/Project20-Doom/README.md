@@ -40,6 +40,7 @@ You should know about these technologies:
 - [Eclipse](https://eclipseide.org/)
 - [Paint.Net](https://www.getpaint.net/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
+- [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 
 <br/>
 
@@ -87,6 +88,8 @@ You need to understand the mechanisms that trigger each tool below:
 - [Eclipse](https://eclipseide.org/)
 - [Paint.Net](https://www.getpaint.net/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
+- [Unity](https://www.unity.com)
+
 
 <br/><br/>
 
