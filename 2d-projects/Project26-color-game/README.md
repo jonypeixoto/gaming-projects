@@ -1,11 +1,11 @@
 <h1 align="center">
     <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/color-game.gif" />
     <br>
-    Color Game
+    Color Game(Tetris)
 </h1>
 
 <h4 align="center">
-Color Game is a repository of the project involving games that every game engineer in the world should know:
+Color Game(Tetris) is a repository of the project involving games that every game engineer in the world should know:
    <a href="https://en.wikipedia.org/wiki/Game">Games</a>
 </h4>
 
@@ -51,7 +51,7 @@ You should know about these technologies:
 
 1. Download the .RAR zipped file below
    
-https://drive.google.com/file/d/11YinhleibaZAreyM-PLvz0Tpv8xiEFo2/view?usp=sharing
+https://drive.google.com/file/d/1sTPn7jFxbazto6VMa6zD968ZcVlT0nBZ/view?usp=sharing
 <br/><br/>
 2. Extract to an accessible location
 <br/><br/>
