@@ -54,7 +54,7 @@ OPEN THE GAME USING ECLIPSE SOFTWARE
 
 1. Download the .RAR zipped file below
    
-https://drive.google.com/file/d/1b2Gdz86L5cE9L63I3uKN0ZkXTA0LYXFh/view?usp=sharing
+https://drive.google.com/file/d/1gQZ4LDZ9R3Hqw-n0RDq4S5tqFYu1Kx6l/view?usp=sharing
 <br/><br/>
 2. Extract to an accessible location
 <br/><br/>
