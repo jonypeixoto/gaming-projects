@@ -49,6 +49,9 @@ You should know about these technologies:
 ## Here, you will find the step by step to run this project
 </br>
 
+OPEN THE GAME USING ECLIPSE SOFTWARE
+<br/>
+
 1. Download the .RAR zipped file below
    
 https://drive.google.com/file/d/18_Ty7WCRJ0cT0TzOPLJRBmjAbcfDjqjY/view?usp=sharing
