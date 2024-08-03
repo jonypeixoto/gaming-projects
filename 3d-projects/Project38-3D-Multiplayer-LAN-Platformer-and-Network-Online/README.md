@@ -51,13 +51,9 @@ You should know about these technologies:
 
 1. Download the .RAR zipped file below
 
-LAN Platformer:
+LAN Platformer / Network Online:
 <br/>
-https://marketplace.gamemaker.io/assets/6041/yoyo-games-lan-platformer
-<br/><br/>
-Network Online:
-<br/>
-https://drive.google.com/file/d/1OCOADUq9VIe-98g2oiAlzfKI6s3_EvKg/view?usp=sharing
+https://drive.google.com/file/d/1Rk0C12Yy9XivbxiveXQYqqBaCNINrfyq/view?usp=sharing
 
 <br/>
 2. Extract to an accessible location
