@@ -25,7 +25,11 @@
 ##  :information_source: Preview
 
   <code><img alt="Jony Peixoto Official Website" align="center" height="400" width="700" 
-src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project03-2D-Multiplayer-LAN-Platformer-and-Network-Online.gif">
+src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project03-2D-Multiplayer-LAN-Platformer-and-Network-Online1.gif">
+ </code>
+ <br/><br/>
+   <code><img alt="Jony Peixoto Official Website" align="center" height="400" width="700" 
+src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project03-2D-Multiplayer-LAN-Platformer-and-Network-Online2.gif">
  </code>
 
 ## :warning: Prerequisites
