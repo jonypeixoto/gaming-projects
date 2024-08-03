@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/infinity-runner.gif" />
+    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/infinite-runner.gif" />
     <br>
-    Infinity Runner Game
+    Infinite Runner Game
 </h1>
 
 <h4 align="center">
-Infinity Runner Game is a repository of the project involving games that every game engineer in the world should know:
+Infinite Runner Game is a repository of the project involving games that every game engineer in the world should know:
    <a href="https://en.wikipedia.org/wiki/Game">Games</a>
 </h4>
 
