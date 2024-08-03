@@ -51,7 +51,7 @@ You should know about these technologies:
 
 1. Download the .RAR zipped file below
    
-https://drive.google.com/file/d/1sTPn7jFxbazto6VMa6zD968ZcVlT0nBZ/view?usp=sharing
+https://drive.google.com/file/d/18_Ty7WCRJ0cT0TzOPLJRBmjAbcfDjqjY/view?usp=sharing
 <br/><br/>
 2. Extract to an accessible location
 <br/><br/>
