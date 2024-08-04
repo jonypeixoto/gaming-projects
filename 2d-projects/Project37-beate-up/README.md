@@ -25,7 +25,7 @@ Beate Game(Final Fight Clone) is a repository of the project involving games tha
 ##  :information_source: Preview
 
   <code><img alt="Jony Peixoto Official Website" align="center" height="400" width="700" 
-src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project31-2d-racing-game.gif">
+src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project37-beate-up.gif">
  </code>
 
 ## :warning: Prerequisites
