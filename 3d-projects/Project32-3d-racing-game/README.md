@@ -49,7 +49,7 @@ You should know about these technologies:
 ## Here, you will find the step by step to run this project
 </br>
 
-OPEN THE GAME USING MICROSOFT VISUAL STUDIO SOFTWARE
+OPEN THE GAME USING UNITY SOFTWARE
 <br/>
 
 1. Download the .RAR zipped file below
@@ -90,7 +90,7 @@ You need to understand the mechanisms that trigger each tool below:
 - [Java](https://www.java.com/en/download/manual.jsp)
 - [Paint.Net](https://www.getpaint.net/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
-- [Microsoft Visual Studio](https://learn.microsoft.com/en-us/visualstudio/gamedev/)
+- [Unity](https://unity.com)
 
 <br/><br/>
 
