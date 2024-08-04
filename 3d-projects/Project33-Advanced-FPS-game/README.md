@@ -54,7 +54,7 @@ OPEN THE GAME USING UNITY SOFTWARE
 
 1. Download the .RAR zipped file below
    
-https://drive.google.com/file/d/1NmATLATD4lQ_DpNuqG5fp74gYfpfTyUd/view?usp=sharing
+https://drive.google.com/file/d/1WaA68e903d9RfLhrHicxb85dm26sim05/view?usp=sharing
 <br/><br/>
 2. Extract to an accessible location
 <br/><br/>
