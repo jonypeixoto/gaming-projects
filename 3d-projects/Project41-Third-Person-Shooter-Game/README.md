@@ -1,11 +1,11 @@
 <h1 align="center">
     <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Third-Person-Shooter-Game.gif" />
     <br>
-    Stack Game
+    Third Person Shooter Game
 </h1>
 
 <h4 align="center">
-Stack Game is a repository of the project involving games that every game engineer in the world should know:
+Third Person Shooter Game is a repository of the project involving games that every game engineer in the world should know:
    <a href="https://en.wikipedia.org/wiki/Game">Games</a>
 </h4>
 
@@ -25,7 +25,7 @@ Stack Game is a repository of the project involving games that every game engine
 ##  :information_source: Preview
 
   <code><img alt="Jony Peixoto Official Website" align="center" height="400" width="700" 
-src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project34-stack-game.gif">
+src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project41-Third-Person-Shooter-Game.gif">
  </code>
 
 ## :warning: Prerequisites
