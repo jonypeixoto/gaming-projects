@@ -90,7 +90,7 @@ You need to understand the mechanisms that trigger each tool below:
 - [Java](https://www.java.com/en/download/manual.jsp)
 - [Paint.Net](https://www.getpaint.net/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Microsoft Visual Studio ](https://visualstudio.microsoft.com/vs/features/game-development/)
 - [Unity](https://unity.com)
 
 <br/><br/>
