@@ -1,11 +1,11 @@
 <h1 align="center">
     <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/beate-up.gif" />
     <br>
-    Beate Game
+    Beate Up Game
 </h1>
 
 <h4 align="center">
-Beate Game(Final Fight Clone) is a repository of the project involving games that every game engineer in the world should know:
+Beate Up Game(Final Fight Clone) is a repository of the project involving games that every game engineer in the world should know:
    <a href="https://en.wikipedia.org/wiki/Game">Games</a>
 </h4>
 
