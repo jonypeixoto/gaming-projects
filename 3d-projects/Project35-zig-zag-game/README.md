@@ -49,12 +49,12 @@ You should know about these technologies:
 ## Here, you will find the step by step to run this project
 </br>
 
-OPEN THE GAME USING ECLIPSE SOFTWARE
+OPEN THE GAME USING UNITY SOFTWARE
 <br/>
 
 1. Download the .RAR zipped file below
    
-https://drive.google.com/file/d/1ZNxj4mYdignuBgzhXq-UoCIbecbfB2L9/view?usp=sharing
+https://drive.google.com/drive/folders/1ikFHul7keNLr6lsLUWEY-pLBcA8VujNj?usp=sharing
 <br/><br/>
 2. Extract to an accessible location
 <br/><br/>
