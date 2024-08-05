@@ -48,6 +48,9 @@ You should know about these technologies:
 
 ## Here, you will find the step by step to run this project
 </br>
+
+OPEN THE ECLIPSE IDE - SOFTWARE AND RUN THE SCRIPT!
+
 </br>
 1. Download the .RAR zipped file below
    
