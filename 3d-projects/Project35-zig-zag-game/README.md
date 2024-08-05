@@ -41,6 +41,8 @@ You should know about these technologies:
 - [Paint.Net](https://www.getpaint.net/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
 - [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+- [Android](https://developer.android.com/)
+- [iOS](https://developer.apple.com/)
 
 <br/>
 
