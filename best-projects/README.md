@@ -34,9 +34,9 @@ This repository folder is intended to show the main projects that I have develop
 The purpose of this repository is to organize 5 categories into which my practical studies in programming were separated. Such as:
 
 * <b><h3>2D(2d-projects)</h3></b>
-   * This paste is dedicated to 2D projects involving games (mobile and PC - online and offline).
+   * This paste is dedicated to Best 2D projects involving games (mobile and PC - online and offline).
 * <b><h3>3D(3d-projects)</h3></b>
-   * This paste is dedicated to 3D projects involving games (mobile and PC - online and offline).
+   * This paste is dedicated to Best 3D projects involving games (mobile and PC - online and offline).
 
 <br/>
 
