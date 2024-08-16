@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Linux GitHub Repo List" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/best-gaming-projects.png" />
+    <img alt="Linux GitHub Repo List" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/gaming-projects.png" />
     <br>
     Best Gaming Projects
 </h1>
