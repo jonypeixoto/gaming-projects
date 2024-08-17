@@ -24,7 +24,7 @@
 
 ##  :information_source: Preview
 
-![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=wlnyGNavcao)
+![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=1zLGtTSMGUo)
 
 ## :warning: Prerequisites
 
