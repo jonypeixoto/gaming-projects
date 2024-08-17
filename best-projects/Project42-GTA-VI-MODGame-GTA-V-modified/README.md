@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project42-GTA-VI-MODGame-GTA-V-modified" />
+    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Project42-GTA-VI-MODGame-GTA-V-modified.png" />
     <br>
     GTA VI MOD Game 
 </h1>
