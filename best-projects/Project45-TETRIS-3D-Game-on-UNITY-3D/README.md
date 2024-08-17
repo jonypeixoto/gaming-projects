@@ -24,7 +24,7 @@ TETRIS 3D Game is a repository of the project involving games that every game en
 
 ##  :information_source: Preview
 
-![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=wlnyGNavcao)
+![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=hhDaE7XbsyM)
 
 ## :warning: Prerequisites
 
