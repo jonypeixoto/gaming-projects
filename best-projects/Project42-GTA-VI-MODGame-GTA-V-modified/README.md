@@ -24,9 +24,7 @@ GTA VI MOD Game is a repository of the project involving games that every game e
 
 ##  :information_source: Preview
 
-  <code><img alt="Jony Peixoto Official Website" align="center" height="400" width="700" 
-src="https://www.youtube.com/watch?v=GIThQOnQ2XE">
- </code>
+![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=GIThQOnQ2XE)
 
 ## :warning: Prerequisites
 
