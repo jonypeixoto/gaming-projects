@@ -24,7 +24,7 @@ Whispers in the Pines - Horror Game is a repository of the project involving gam
 
 ##  :information_source: Preview
 
-![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=wlnyGNavcao)
+![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=V9WrmdLEkNU)
 
 ## :warning: Prerequisites
 
