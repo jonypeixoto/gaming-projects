@@ -24,7 +24,7 @@ FPS Adventure Game is a repository of the project involving games that every gam
 
 ##  :information_source: Preview
 
-![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=wlnyGNavcao)
+![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=Y6wgZjHj4-E)
 
 ## :warning: Prerequisites
 
