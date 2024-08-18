@@ -50,30 +50,10 @@ You should know about these technologies:
 OPEN THE GAME USING UNITY SOFTWARE
 <br/>
 
-1. Download the .RAR zipped file below
-   
-https://drive.google.com/file/d/1CfN7FJ5oduDBZCq03USOHyhMYCQQupNO/view?usp=sharing
-<br/><br/>
-2. Extract to an accessible location
-<br/><br/>
-3. Export in Java format (most recommended) and have fun with this new game !
-<br/><br/>
-How to export to Windows executable format?
-<br/> 
-Convert JAR to .exe To convert your JAR file to a .exe file, you can use a tool like Launch4j, JSmooth, or JexePack. Here, we'll use Launch4j as an example: 
+Download here:
 <br/>
-Download and install Launch4j.
-<br/>
-Open Launch4j and configure the settings as follows: - Output File: Your desired .exe filename.
-<br/>
-- Jar: Select your JAR file.
-- Customize other options as needed.
-<br/>
-- Click "Build Wrapper" to create your .exe file.
-<br/><br/>
-For MAC and Linux, check the documentation below
-<br/>
-https://www.oracle.com/java/technologies/javase-documentation.html
+https://drive.google.com/drive/folders/10waYNlusKYfqGa4XP5fcAKPOQXrQMuOv?usp=sharing
+
 <br/><br/>
 
 <br/>
