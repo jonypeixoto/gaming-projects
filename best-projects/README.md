@@ -325,7 +325,7 @@ Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.enginee
 
 <br/>
 
-<a href="https://www.jonypeixoto.com" target="_blank">
+<a href="https://www.jonypeixoto.engineer" target="_blank">
   <code><img alt="Jony Peixoto Official Website" height="30" width="130" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
 
