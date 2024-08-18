@@ -285,19 +285,19 @@ Follow the instructions shown in each README of each folder of the "gaming-proje
 
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Operational Systems:
 
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.engineer">
   <code><img alt="Mac OS" height="30" width="100" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.engineer">
   <code><img alt="Windows" height="30" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.engineer">
   <code><img alt="Kali Linux" height="30" width="120" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.engineer">
   <code><img alt="Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.engineer">
   <code><img alt="Tails" height="30" width="100" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)" /></code>
 </a>
 
@@ -305,10 +305,10 @@ Follow the instructions shown in each README of each folder of the "gaming-proje
 	
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Mobile Apps Licensed By:
 
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.engineer">
   <code><img alt="App Store" height="30" width="120" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.engineer">
   <code><img alt="Google Play" height="30" width="130" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></code>
 </a>
 	
@@ -321,7 +321,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/jony
 
 ## :star2: Author
 
-Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
+Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.engineer)
 
 <br/>
 
@@ -335,7 +335,7 @@ Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 
 TikTok: [Jony Peixoto @jonypeixoto](https://tiktok.com/@jonypeixoto)
 
-YouTube: [Jony Peixoto](https://youtube.com/@jonypeixoto.)
+YouTube: [Jony Peixoto](https://youtube.com/@JonyPeixotoTV)
 
 Twitch: [Jony Peixoto](https://twitch.tv/jonypeixoto)
 
